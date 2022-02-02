@@ -35,9 +35,9 @@ HELP = """
 ABOUT = """
 ➥ Name : Auto Filter With IMDB
     
-➥ Credits : Subin
+➥ Creater : Parthip
 
-➥ Editing : [Muhammed RK](t.me/Mrk_YT)
+➥ Channel : [Movie Media](t.me/Moviemediass)
 
 ➥ Language : Python3
 
